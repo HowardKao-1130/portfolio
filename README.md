@@ -33,7 +33,6 @@ Nanomanufacturing Lab (_April 2020 - September 2020_)**
 
 ### Publications
 1. Predicting the Risk of ACL Injuries Using Machine Learning Models and Anatomical Predictors (Under review) *Cheng-Hao Kao, Javad Hashemi, James Slauterbeck, Naveen Chandrashekar* [Under currently unavailable](https://howardkao-1130.github.io/portfolio/)
-2. Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products [Link](https://arxiv.org/abs/2409.13688)
-by Deep Learning *Hadi Rezvani, Navid Zarrabi, Ishaan Mehta, Christopher Kolios, Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi, Nariman Yousefi* 
+2. Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning *Hadi Rezvani, Navid Zarrabi, Ishaan Mehta, Christopher Kolios, Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi, Nariman Yousefi* [Link](https://arxiv.org/abs/2409.13688)
 3. MR. CAP: Multi-Robot Joint Control and Planning for Object Transport *Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi* [Link](https://ieeexplore.ieee.org/document/10380779)
 ### Projects
