@@ -8,9 +8,9 @@
 - B.Eng., Mechatronics Engineering, Toronto Metropoliton University (_August 2018 - June 2023_)
 
 ### Work Experience
-**Technology Planning and Cooperation Intern @ Huawei Canada (_August 2025 - Present_)**
-- Multi-agent system workload trend identification
-- Multi-agent system system-level optimization analysis.
+- Technology Planning and Cooperation Intern @ Huawei Canada (_August 2025 - Present_)**
+ - Multi-agent system workload trend identification
+ - Multi-agent system system-level optimization analysis.
 
 **Research Assistant @ Toronto Metropoliton University Robotics and Computer Vision Lab (_June 2023 - January 2024_)**
 - Research on multi-robot collaboration joint trajectory planning and control
