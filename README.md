@@ -2,6 +2,20 @@
 
 ### Technical Skills
 - Programming Languages: Python, C/C++, MATLAB, Java, JavaScript, HTML/CSS, SQL
+<p align="center">
+  <a href="https://github.com/HowardKao-1130" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=your_scholar_id" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="/assets/pdf/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
+  </a>
+</p>
 
 ### Education
 - MASc, Mechatronics Engineering, University of Waterloo (_January 2024 - Present_)	 			        		
@@ -9,8 +23,8 @@
 
 ### Work Experience
 - Technology Planning and Cooperation Intern @ Huawei Canada (_August 2025 - Present_)**
- - Multi-agent system workload trend identification
- - Multi-agent system system-level optimization analysis.
+  - Multi-agent system workload trend identification
+  - Multi-agent system system-level optimization analysis.
 
 **Research Assistant @ Toronto Metropoliton University Robotics and Computer Vision Lab (_June 2023 - January 2024_)**
 - Research on multi-robot collaboration joint trajectory planning and control
