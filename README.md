@@ -6,10 +6,10 @@
   <a href="https://github.com/HowardKao-1130" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/cheng-hao-kao-64343b252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=your_scholar_id" target="_blank">
+  <a href="https://scholar.google.com/citations?user=svHzmooAAAAJ&hl=zh-TW" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="/assets/pdf/cv.pdf" target="_blank">
@@ -26,27 +26,25 @@
   - Multi-agent system workload trend identification
   - Multi-agent system system-level optimization analysis.
 
-**Research Assistant @ Toronto Metropoliton University Robotics and Computer Vision Lab (_June 2023 - January 2024_)**
-- Research on multi-robot collaboration joint trajectory planning and control
-- Research on micro-plastic detection via ultrasonic sensor and machine learning
-- Software development
+- **Research Assistant @ Toronto Metropoliton University Robotics and Computer Vision Lab (_June 2023 - January 2024_)**
+  - Research on multi-robot collaboration joint trajectory planning and control
+  - Research on micro-plastic detection via ultrasonic sensor and machine learning
+  - Software development
 
-**Research Assistant @ Toronto Metropoliton University MEMs Lab (_September 2022 - February 2023_)**
-- Research on FPCB mirror-based lidar scanners
-- Integration of PSD sensors and ToF sensors
-- Incorporation of GUI with the scanner
+- **Research Assistant @ Toronto Metropoliton University MEMs Lab (_September 2022 - February 2023_)**
+  - Research on FPCB mirror-based lidar scanners
+  - Integration of PSD sensors and ToF sensors
+  - Incorporation of GUI with the scanner
 
-**Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser
-Nanomanufacturing Lab (_April 2021 - September 2021_)**
-- Conducting porosity and fiber analyses
-- Generating molecular dynamics simulations
-- SEM image processing
+- **Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser Nanomanufacturing Lab (_April 2021 - September 2021_)**
+  - Conducting porosity and fiber analyses
+  - Generating molecular dynamics simulations
+  - SEM image processing
 
-**Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser
-Nanomanufacturing Lab (_April 2020 - September 2020_)**
-- Conducting porosity and fiber analyses
-- Generating molecular dynamics simulations
-- SEM image processing
+- **Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser Nanomanufacturing Lab (_April 2020 - September 2020_)**
+  - Conducting porosity and fiber analyses
+  - Generating molecular dynamics simulations
+  - SEM image processing
 
 ### Publications
 1. Predicting the Risk of ACL Injuries Using Machine Learning Models and Anatomical Predictors (Under review) *Cheng-Hao Kao, Javad Hashemi, James Slauterbeck, Naveen Chandrashekar* [Under currently unavailable](https://howardkao-1130.github.io/portfolio/)
