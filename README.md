@@ -3,22 +3,27 @@
 ### Education
 - MASc, Mechatronics Engineering	| University of Waterloo (_January 2024 - Present_)	 			        		
 - B.Eng., Mechatronics Engineering | Toronto Metropoliton University (_August 2018 - June 2023_)
+
 ### Work Experience
 **Technology Planning and Cooperation Intern @ Huawei Canada (_August 2025 - Present_)**
 - Multi-agent system workload trend identification and system-level optimization analysis.
+- 
 **Research Assistant @ Toronto Metropoliton University Robotics and Computer Vision Lab (_June 2023 - January 2024_)**
 - Research on multi-robot collaboration joint trajectory planning and control
 - Research on micro-plastic detection via ultrasonic sensor and machine learning
 - Software development
+
 **Research Assistant @ Toronto Metropoliton University MEMs Lab (_September 2022 - February 2023_)**
 - Research on FPCB mirror-based lidar scanners
 - Integration of PSD sensors and ToF sensors
 - Incorporation of GUI with the scanner
+
 **Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser
 Nanomanufacturing Lab (_April 2021 - September 2021_)**
 - Conducting porosity and fiber analyses
 - Generating molecular dynamics simulations
 - SEM image processing
+
 **Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser
 Nanomanufacturing Lab (_April 2020 - September 2020_)**
 - Conducting porosity and fiber analyses
