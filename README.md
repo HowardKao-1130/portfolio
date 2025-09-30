@@ -10,15 +10,15 @@
   <a href="https://scholar.google.com/citations?user=svHzmooAAAAJ&hl=zh-TW" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="/assets/pdf/CV.pdf" target="_blank">
+  <a href="assets/pdf/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
   </a>
 </p>
 
-<a href="/assets/images/head_photo.jpg" target="_blank">
+<a href="assets/images/head_photo.jpg" target="_blank">
   <img src="https://img.shields.io/badge/Image-View-blue?style=for-the-badge&logo=picture&logoColor=white" alt="Sample Image"/>
 </a>
-<a href="/assets/videos/demo.mp3" target="_blank">
+<a href="assets/videos/demo.mp3" target="_blank">
   <img src="https://img.shields.io/badge/Recording-Listen-orange?style=for-the-badge&logo=music&logoColor=white" alt="Sample Recording"/>
 </a>
 
