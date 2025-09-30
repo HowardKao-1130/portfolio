@@ -18,7 +18,7 @@
 <a href="assets/images/head_photo.jpg" target="_blank">
   <img src="https://img.shields.io/badge/Image-View-blue?style=for-the-badge&logo=picture&logoColor=white" alt="Sample Image"/>
 </a>
-<a href="assets/videos/demo.mp3" target="_blank">
+<a href="assets/videos/demo.mp4" target="_blank">
   <img src="https://img.shields.io/badge/Recording-Listen-orange?style=for-the-badge&logo=music&logoColor=white" alt="Sample Recording"/>
 </a>
 
