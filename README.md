@@ -15,12 +15,14 @@
   </a>
 </p>
 
-<a href="assets/images/head_photo.jpg" target="_blank">
-  <img src="https://img.shields.io/badge/Image-View-blue?style=for-the-badge&logo=picture&logoColor=white" alt="Sample Image"/>
-</a>
-<a href="assets/videos/demo.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/Recording-Listen-orange?style=for-the-badge&logo=music&logoColor=white" alt="Sample Recording"/>
-</a>
+<!-- <p align="center"
+  <a href="assets/images/head_photo.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/Image-View-blue?style=for-the-badge&logo=picture&logoColor=white" alt="Sample Image"/>
+  </a>
+  <a href="assets/videos/demo.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/Recording-Listen-orange?style=for-the-badge&logo=music&logoColor=white" alt="Sample Recording"/>
+  </a>
+</p> -->
 
 ### Technical Skills
 - Programming Languages: Python, MATLAB, C/C++
@@ -31,23 +33,23 @@
 - B.Eng., Mechatronics Engineering, Toronto Metropoliton University (_August 2018 - June 2023_)
 
 ### Work Experience
-- Technology Planning and Cooperation Intern @ Huawei Canada (_August 2025 - Present_)**
+- Technology Planning and Cooperation Intern @ Huawei Canada (_August 2025 - Present_)
   - Multi-agent system workload trend identification
   - Multi-agent system system-level optimization analysis.
 
-- **Research Assistant @ Toronto Metropoliton University Robotics and Computer Vision Lab (_June 2023 - January 2024_)**
+- Research Assistant @ Toronto Metropoliton University Robotics and Computer Vision Lab (_June 2023 - January 2024_)
   - Research on multi-robot collaboration joint trajectory planning and control
   - Research on micro-plastic detection via ultrasonic sensor and machine learning
 
-- **Research Assistant @ Toronto Metropoliton University MEMs Lab (_September 2022 - February 2023_)**
+- Research Assistant @ Toronto Metropoliton University MEMs Lab (_September 2022 - February 2023_)
   - Research on FPCB mirror-based lidar scanners
   - Integration of PSD sensors, ToF sensors, and GUI
 
-- **Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser Nanomanufacturing Lab (_April 2021 - September 2021_)**
+- Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser Nanomanufacturing Lab (_April 2021 - September 2021_)
   - Conducting porosity and fiber analyses via SEM image processing
   - Generating molecular dynamics simulations
 
-- **Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser Nanomanufacturing Lab (_April 2020 - September 2020_)**
+- Research Assistant Intern @ Toronto Metropoliton University Ultrashort Laser Nanomanufacturing Lab (_April 2020 - September 2020_)
   - Conducting porosity and fiber analyses via SEM image processing
   - Generating molecular dynamics simulations
 
