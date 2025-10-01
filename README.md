@@ -5,13 +5,16 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/cheng-hao-kao-64343b252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedInSquare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://scholar.google.com/citations?user=svHzmooAAAAJ&hl=zh-TW" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="assets/pdf/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
+  </a>
+  <a href="mailto:blonicle1130@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -25,8 +28,8 @@
 </p> -->
 
 ### Technical Skills
-- Programming Languages: Python, MATLAB, C/C++
-- Software and Tools: PyTorch, Gazebo, SolidWorks, LaTeX, Git, JIRA, Jenkins, Docker
+- Programming Languages: Python, MATLAB, processing, C/C++
+- Software and Tools: PyTorch, TensorFlow, AutoGluon, SkLearn, YOLO, SAM, Optuna, Matlab, Soildworks, Latex
 
 ### Education
 - MASc, Mechatronics Engineering, University of Waterloo (_January 2024 - Present_)	 			        		
@@ -36,6 +39,11 @@
 - Technology Planning and Cooperation Intern @ Huawei Canada (_August 2025 - Present_)
   - Multi-agent system workload trend identification
   - Multi-agent system system-level optimization analysis.
+
+- Teaching Assistant @ University of Waterloo (_May 2024 - April 2025_)
+  - Teaching Circuits
+  - Teaching Mechanics of Deformable Solids
+  - Teaching Statics
 
 - Research Assistant @ Toronto Metropoliton University Robotics and Computer Vision Lab (_June 2023 - January 2024_)
   - Research on multi-robot collaboration joint trajectory planning and control
