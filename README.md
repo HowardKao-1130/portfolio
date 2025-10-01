@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://scholar.google.com/citations?user=svHzmooAAAAJ&hl=zh-TW" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-2196F3?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="mailto:blonicle1130@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-42A5F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="assets/pdf/CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/CV-90CAF9?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
   </a>
 </p>
 
