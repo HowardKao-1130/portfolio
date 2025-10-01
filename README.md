@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="assets/pdf/CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
   </a>
   <a href="mailto:blonicle1130@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Download-green?style=for-the-badge&logo=envelope&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=envelope&logoColor=white" alt="Email"/>
   </a>
 </p>
 
