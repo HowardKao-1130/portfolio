@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="mailto:blonicle1130@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FFB300?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="assets/pdf/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
@@ -64,6 +64,15 @@
 3. MR. CAP: Multi-Robot Joint Control and Planning for Object Transport *Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi* [Link](https://ieeexplore.ieee.org/document/10380779)
 
 ### Other Projects
+
+- IMU data processing and visualization
+- Time-series signal classification for tool & firearm use intervention via deep learning
+- Data cleaning of wearable sensor time-series data
+- Object segmentation and identification via SAM and YOLO
+- EKF design for 2D object tracking
+- MPC implementation for path planning and controls
+- Improving SVM prediction accuracy on minority classes for imbalanced datasets
+- Inverted pendulum control via pid controllers
 
 ### Technical Skills
 - Programming Languages: Python, MATLAB, processing, C/C++
