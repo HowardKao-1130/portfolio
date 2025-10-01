@@ -5,16 +5,16 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/cheng-hao-kao-64343b252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedinsquare&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://scholar.google.com/citations?user=svHzmooAAAAJ&hl=zh-TW" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
+  <a href="mailto:blonicle1130@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="assets/pdf/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
-  </a>
-  <a href="mailto:blonicle1130@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=envelope&logoColor=white" alt="Email"/>
   </a>
 </p>
 
