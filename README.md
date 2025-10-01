@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="mailto:blonicle1130@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FFB300?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="assets/pdf/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
@@ -27,9 +27,6 @@
   </a>
 </p> -->
 
-### Technical Skills
-- Programming Languages: Python, MATLAB, processing, C/C++
-- Software and Tools: PyTorch, TensorFlow, AutoGluon, SkLearn, YOLO, SAM, Optuna, Matlab, Soildworks, Latex
 
 ### Education
 - MASc, Mechatronics Engineering, University of Waterloo (_January 2024 - Present_)	 			        		
@@ -67,3 +64,7 @@
 3. MR. CAP: Multi-Robot Joint Control and Planning for Object Transport *Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi* [Link](https://ieeexplore.ieee.org/document/10380779)
 
 ### Other Projects
+
+### Technical Skills
+- Programming Languages: Python, MATLAB, processing, C/C++
+- Software and Tools: PyTorch, TensorFlow, AutoGluon, SkLearn, YOLO, SAM, Optuna, Matlab, Soildworks, Latex
