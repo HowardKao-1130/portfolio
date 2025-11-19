@@ -36,6 +36,7 @@
 - Technology Planning and Cooperation Research Intern @ Huawei Canada (_August 2025 - Present_)
   - Multi-agent system workload trend identification
   - Multi-agent system system-level optimization analysis
+  - Multi-agent system analysis in AI for scientific research 
 
 - Teaching Assistant @ University of Waterloo (_May 2024 - April 2025_)
   - Teaching Circuits
@@ -65,14 +66,15 @@
 
 ### Other Projects
 
-- IMU data processing and visualization
-- Time-series signal classification for tool & firearm use intervention via deep learning
-- Data cleaning of wearable sensor time-series data
-- Object segmentation and identification via SAM and YOLO
-- EKF design for 2D object tracking
-- MPC implementation for path planning and controls
-- Improving SVM prediction accuracy on minority classes for imbalanced datasets
-- Inverted pendulum control via pid controllers
+- Time-series signal classification for tool & firearm use intervention via deep learning (Honda & GRYP Tech & UW)
+- Data cleaning of wearable sensor time-series data (Honda & GRYP Tech & UW)
+- IMU data processing and visualization (GRYP Tech & UW)
+- Object segmentation and identification via SAM and YOLO (UW)
+- Analyzing effect of homogeneous bagging on small medical datasets (UW)
+- EKF design for 3D object tracking (UW) 
+- Improving SVM prediction accuracy on minority classes for imbalanced datasets (UW)
+- MPC implementation for path planning and controls (TMU)
+- Inverted pendulum control via PID controllers (TMU)
 
 ### Technical Skills
 - Programming Languages: Python, MATLAB, processing, C/C++
