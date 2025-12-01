@@ -36,7 +36,7 @@
 - Technology Planning and Cooperation Research Intern @ Huawei Canada (_August 2025 - Present_)
   - Multi-agent system workload trend identification
   - Multi-agent system system-level optimization analysis
-  - Multi-agent system analysis in AI for scientific research 
+  - Agentic science analysis
 
 - Teaching Assistant @ University of Waterloo (_May 2024 - April 2025_)
   - Teaching Circuits
